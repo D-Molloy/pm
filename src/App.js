@@ -1,13 +1,15 @@
 import React from 'react';
-import Home from './pages/home';
-import Game from './pages/game';
+import Nav from './components/Nav';
+import Home from './pages/Home';
+import Game from './pages/Game';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
     <Router>
-      <div>
+      <div class='App'>
+        <Nav />
         <Switch>
           <Route exact path='/'>
             <Home />
