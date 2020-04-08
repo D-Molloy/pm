@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <div class='App'>
+      <div className='App'>
         <Nav />
         <Switch>
           <Route exact path='/'>
