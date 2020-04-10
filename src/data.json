@@ -12,7 +12,8 @@
   {
     "id": 3,
     "image": "/assets/images/grace.jpg",
-    "clicked": false
+    "clicked": false,
+    "name": "grace"
   },
   {
     "id": 4,
@@ -37,12 +38,14 @@
   {
     "id": 8,
     "image": "/assets/images/maggie.jpg",
-    "clicked": false
+    "clicked": false,
+    "name": "margaret"
   },
   {
     "id": 9,
     "image": "/assets/images/monica.jpg",
-    "clicked": false
+    "clicked": false,
+    "name": "monica"
   },
   {
     "id": 10,
@@ -62,7 +65,8 @@
   {
     "id": 13,
     "image": "/assets/images/oliver.jpg",
-    "clicked": false
+    "clicked": false,
+    "name": "oliver"
   },
   {
     "id": 14,
@@ -77,7 +81,8 @@
   {
     "id": 16,
     "image": "/assets/images/vivian.jpg",
-    "clicked": false
+    "clicked": false,
+    "name": "vivian"
   },
   {
     "id": 17,
@@ -87,6 +92,7 @@
   {
     "id": 18,
     "image": "/assets/images/william.jpg",
-    "clicked": false
+    "clicked": false,
+    "name": "william"
   }
 ]
