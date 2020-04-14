@@ -1,13 +1,26 @@
-.card-container {
-  width: 80%;
-  margin: auto;
-  height: 100%;
-  border: 1px solid black;
+.home-container {
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  flex-direction: column;
+  height: 85vh;
+  align-items: center;
 }
 
-#main {
-  min-height: 80vh;
+.greeting-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form button {
+  margin-left: 16px;
+}
+
+[type='text'] {
+  font-size: 50px;
+  width: 35%;
 }
