@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/amanda-den.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/girls.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/grace.jpg",
+    "clicked": false,
+    "name": "grace"
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/henkemeyer-girls.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/jeff.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/joachims.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/liz.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/maggie.jpg",
+    "clicked": false,
+    "name": "margaret"
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/monica.jpg",
+    "clicked": false,
+    "name": "monica"
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/nana-papa.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/nana-papa2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/oliver-grace.jpg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "/assets/images/oliver.jpg",
+    "clicked": false,
+    "name": "oliver"
+  },
+  {
+    "id": 14,
+    "image": "/assets/images/sinnotts.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "/assets/images/viv-momo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "/assets/images/vivian.jpg",
+    "clicked": false,
+    "name": "vivian"
+  },
+  {
+    "id": 17,
+    "image": "/assets/images/william-maggie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "/assets/images/william.jpg",
+    "clicked": false,
+    "name": "william"
+  }
+]

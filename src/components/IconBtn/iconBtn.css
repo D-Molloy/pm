@@ -1,0 +1,23 @@
+.button {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  padding: 0;
+  font-size: 30px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  /* -webkit-text-stroke: 1px black; */
+  box-shadow: 0;
+  transition: box-shadow 0.5s;
+}
+
+.button:hover {
+  box-shadow: 0px 0px 28px 0px rgba(0, 0, 0, 0.5);
+}
+
+.material-icons {
+  font-size: 40px;
+  padding-top: 5px;
+}
