@@ -26,7 +26,7 @@ export default function IconBtn({ action, handleClick }) {
       style={{ backgroundColor: color }}
       onClick={handleClick}
     >
-      <span class='material-icons'>{icon}</span>
+      <span className='material-icons'>{icon}</span>
     </button>
   );
 }
